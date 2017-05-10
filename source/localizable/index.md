@@ -82,7 +82,7 @@ Typos, missing words, and code samples with errors are all considered
 documentation bugs. If you spot one of them, or want to otherwise improve
 the existing guides, we are happy to help you help us!
 
-Some of the more common ways to report a problem with the guides are:
+Some of the more common ways to report a problem with the guides are;
 
 * Using the pencil icon on the top-right of each guide page
 * Opening an issue or pull request to [the GitHub repository][gh-guides]
